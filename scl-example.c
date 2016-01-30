@@ -2,6 +2,6 @@
  
 int main(void)
 {
-  printf("scl-example: ver 1.0\n");
+  printf("scl-example: ver 2.0\n");
   return 0;
 }
